@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm currently a Computer Science and Business student at Emory University, diving deep into the world of software development and machine learning. When I'm not buried in code, you can find me exploring the latest tech trends or watching skiing videos on YouTube ⛷️!
 
-## 🎓 Education
-- **Computer Science & Business**
-  - Emory University
 
 ## 💼 Experience
 - **Undergraduate Computer Science Researcher**
