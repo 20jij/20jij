@@ -4,29 +4,20 @@ Welcome to my GitHub profile! I'm currently a Computer Science and Business stud
 
 
 ## 💼 Experience
-- **Undergraduate Computer Science Researcher**
-  - Emory Liang Zhao's Lab
-- **Software Engineering Intern**
-  - Pony.ai
-  - StudyFind
+- Undergraduate Computer Science Researcher at Emory Liang Zhao's Lab
+- Software Engineering Intern at Pony.ai and StudyFind
 
 ## 🚀 Skills
-
-### Coding Languages
-- **Proficient**: Java, JavaScript/TypeScript, Python, SQL, C++, C, HTML&CSS, R, Tableau
-
-### Software Development
-- **Tools & Technologies**: Git, Jenkins, Linux, Vim
-- **Frameworks**: Flask, React Native, React.js
-- **Platforms**: Node.js, Express.js
-- **Data Handling**: JSON, Full Stack, Relational Database, GCP, MySQL, JDBC
-
-### Libraries
-- **Machine Learning & Data Visualization**: PyTorch, Scikit-learn, NumPy, Pandas, NetworkX, Matplotlib, Seaborn
-- **Web Scraping & Data Management**: BeautifulSoup4, Collections, Selenium
+- Coding Languages: Java, JavaScript/TypeScript, Python, SQL, C++, C, HTML&CSS, R, Tableau
+- Tools & Technologies: Git, Jenkins, Linux, Vim
+- Frameworks: Flask, React Native, React.js
+- Platforms: Node.js, Express.js
+- Data Handling: JSON, Full Stack, Relational Database, GCP, MySQL, JDBC
+- Machine Learning & Data Visualization: PyTorch, Scikit-learn, NumPy, Pandas, NetworkX, Matplotlib, Seaborn
+- Web Scraping & Data Management: BeautifulSoup4, Collections, Selenium
 
 ## 🤝 I’m looking for...
-- Summer 2024 software engineering internships.
+- **Summer 2024 software engineering internships.**
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jason-ji-566673166/)
