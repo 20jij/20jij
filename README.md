@@ -1,9 +1,10 @@
 # 👋 Hello, I'm Jason Ji
 
-Welcome to my GitHub profile! I'm currently a Computer Science and Business student at Emory University, diving deep into the world of software development and machine learning. When I'm not buried in code, you can find me exploring the latest tech trends or watching skiing videos on YouTube ⛷️!
+Welcome to my GitHub profile! I'm currently a master of engineering student at UC Berkeley EECS, diving deep into the world of software development and machine learning. When I'm not buried in code, you can find me exploring the latest tech trends or watching skiing videos on YouTube ⛷️!
 
 
 ## 💼 Experience
+- Information Technology Intern at Raymond James 
 - Undergraduate Computer Science Researcher at Emory Liang Zhao's Lab
 - Software Engineering Intern at Pony.ai and StudyFind
 
