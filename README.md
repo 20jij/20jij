@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm currently a master of engineering student at U
 
 
 ## 💼 Experience
+- Software Engineer at Shelton.ai
 - Information Technology Intern at Raymond James 
 - Undergraduate Computer Science Researcher at Emory Liang Zhao's Lab
 - Software Engineering Intern at Pony.ai and StudyFind
@@ -18,7 +19,7 @@ Welcome to my GitHub profile! I'm currently a master of engineering student at U
 - Web Scraping & Data Management: BeautifulSoup4, Collections, Selenium
 
 ## 🤝 I’m looking for...
-- **Summer 2024 software engineering internships.**
+- **Summer 2025 software engineering full time opportunities.**
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jason-ji-566673166/)
